@@ -2,7 +2,7 @@
 
 🎓 Engenheiro da Computação
 
-📍 Joinville - SC
+📍 Joinville, Santa Catarina, Brasil
 
 🔒 Interessado em Cybersecurity, SOC, Blue Team, Redes e Infraestrutura
 
@@ -13,12 +13,22 @@
 
 ## Áreas de Interesse
 
-* Cybersecurity
-* Security Operations Center (SOC)
-* Blue Team
-* Redes de Computadores
-* Infraestrutura de TI
-* Segurança da Informação
+## Tecnologias e Ferramentas
+
+- Cisco IOS
+- TCP/IP
+- VLAN
+- OSPF
+- ACL
+- NAT
+- Wireshark
+- Nmap
+- Linux
+- Windows Server
+- PowerShell
+- Python
+- KQL
+- Microsoft Sentinel
 
 ## Projetos
 
