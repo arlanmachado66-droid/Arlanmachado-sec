@@ -1,0 +1,40 @@
+# Fundamentos de SOC (Security Operations Center)
+
+## Sobre o curso
+
+Curso introdutório focado nos conceitos fundamentais de um Security Operations Center (SOC), abordando processos, ferramentas e responsabilidades de um Analista SOC.
+
+## Conteúdos estudados
+
+- O que é um SOC
+- Estrutura de equipes Blue Team
+- Monitoramento de eventos de segurança
+- SIEM (Security Information and Event Management)
+- Gestão de alertas
+- Investigação de incidentes
+- Threat Intelligence
+- Indicadores de Comprometimento (IOCs)
+- Fluxo de resposta a incidentes
+
+## Habilidades desenvolvidas
+
+- Análise de alertas
+- Triagem de incidentes
+- Investigação básica de ameaças
+- Correlação de eventos
+- Monitoramento de segurança
+
+## Ferramentas apresentadas
+
+- SIEM
+- EDR
+- Threat Intelligence Platforms
+- Sistemas de Ticketing
+
+## Certificação
+
+Curso concluído com sucesso na trilha de Analista SOC.
+
+## Objetivo Profissional
+
+Este repositório faz parte do meu portfólio de Cybersecurity, demonstrando meus estudos e evolução na área de Security Operations Center (SOC).
