@@ -1,0 +1,23 @@
+# Cisco CCNA
+
+Repositório com meus estudos e práticas realizados durante a preparação para a certificação Cisco CCNA.
+
+## Conteúdos
+
+- Modelo OSI e TCP/IP
+- IPv4 e IPv6
+- Subnetting
+- VLANs
+- STP
+- EtherChannel
+- Inter-VLAN Routing
+- OSPF
+- ACLs
+- NAT/PAT
+- DHCP
+- Segurança básica em switches e roteadores
+
+## Ferramentas
+
+- Cisco Packet Tracer
+- Cisco IOS
