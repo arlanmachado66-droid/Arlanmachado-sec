@@ -32,6 +32,11 @@
 
 ## Projetos
 
+### TCC - CIS Controls e LGPD
+- Implementação dos CIS Controls em conformidade com a LGPD em clínicas médicas.
+- Análise de riscos e aplicação de controles de segurança.
+- Documentação acadêmica baseada em boas práticas de cibersegurança.
+
 ### Scripts PowerShell
 
 Automação, auditoria e coleta de informações em ambientes Windows.
@@ -62,6 +67,4 @@ Exercícios e documentações de redes realizados durante os estudos para certif
 
 ## Contato
 
-LinkedIn: (adicione seu perfil aqui)
-
-GitHub: (adicione seu perfil aqui)
+LinkedIn: (https://www.linkedin.com/in/arlanmachado/))
