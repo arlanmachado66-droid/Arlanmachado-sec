@@ -1,16 +1,59 @@
-# Cisco CyberOps
+# Cisco CyberOps Associate
 
-Laboratórios e anotações desenvolvidos durante meus estudos em Cisco CyberOps.
+## Sobre
 
-## Conteúdos
+Este repositório reúne anotações, laboratórios e estudos realizados durante minha preparação no curso Cisco CyberOps Associate.
 
-- SOC Fundamentals
-- SIEM
-- Logs
-- Threat Intelligence
-- Malware
-- Incident Response
-- Network Security Monitoring
-- Wireshark
-- Linux Fundamentals
-- Windows Event Logs
+O foco do curso é capacitar profissionais para atuação em Security Operations Centers (SOC), abordando monitoramento de eventos, análise de incidentes, threat intelligence e resposta a incidentes.
+
+## Competências Desenvolvidas
+
+* Monitoramento de eventos de segurança
+* Análise de logs e alertas
+* Investigação de incidentes
+* Threat Intelligence
+* Análise de tráfego de rede
+* Utilização do Wireshark
+* Conceitos de SIEM
+* Framework MITRE ATT&CK
+* Indicadores de Comprometimento (IOCs)
+* Resposta a Incidentes
+
+## Conteúdo
+
+### Threat Intelligence
+
+* Identificação de IOC's
+* MITRE ATT&CK
+* Fontes de inteligência de ameaças
+
+### Log Analysis
+
+* Windows Event Logs
+* Syslog
+* Correlação de eventos
+
+### Network Monitoring
+
+* Captura de pacotes
+* Análise de protocolos
+* Identificação de tráfego suspeito
+
+### Incident Response
+
+* Identificação
+* Contenção
+* Erradicação
+* Recuperação
+
+## Ferramentas Utilizadas
+
+* Wireshark
+* Cisco Packet Tracer
+* Linux
+* Windows Event Viewer
+* MITRE ATT&CK
+
+## Objetivo
+
+Consolidar conhecimentos em operações de segurança e monitoramento de ambientes corporativos, com foco em atuação em SOC (Security Operations Center).
